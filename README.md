@@ -11,10 +11,10 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Cursando **[SEU CURSO]** na **[SUA INSTITUIÇÃO]**
+- 🎓 Cursando **[Redes de Computadores]** na **[Universidade Federal do Ceará]**
 - 💡 Gosto de construir sistemas bem estruturados com **POO** e interfaces web interativas
 - 🌱 Atualmente aprendendo: **[ex.: Spring Boot, React, SQL]**
-- 🎯 Objetivo: **[ex.: conseguir meu primeiro estágio em desenvolvimento]**
+- 🎯 Objetivo: **[conseguir meu primeiro estágio em desenvolvimento]**
 
 ### 🛠️ Tecnologias
 <p>
@@ -25,7 +25,6 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [🏨 Sunland Hotel Manager](https://github.com/Manelsk/sunland-hotel-manager) | Sistema de gerenciamento de hotel com herança, polimorfismo, interfaces, exceções e documentação Javadoc | Java |
-| [🎉 Chá Revelação](https://github.com/Manelsk/Cha-revelacao) | Página web interativa para evento de chá revelação | HTML · CSS · JavaScript |
 
 ### 📊 Estatísticas
 <p>
