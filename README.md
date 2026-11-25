@@ -11,10 +11,10 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Cursando **[Redes de Computadores]** na **[Universidade Federal do Ceará]**
+- 🎓 Cursando **Redes de Computadores** na **Universidade Federal do Ceará**
 - 💡 Gosto de construir sistemas bem estruturados com **POO** e interfaces web interativas
-- 🌱 Atualmente aprendendo: **[ex.: Spring Boot, React, SQL]**
-- 🎯 Objetivo: **[conseguir meu primeiro estágio em desenvolvimento]**
+- 🌱 Atualmente aprendendo: ** Spring Boot, React, SQL**
+- 🎯 Objetivo: **conseguir meu primeiro estágio em desenvolvimento**
 
 ### 🛠️ Tecnologias
 <p>
@@ -33,4 +33,4 @@
 </p>
 
 ---
-<p align="center"><i>"[Uma frase que te represente]"</i></p>
+<p align="center"><i>"Hesitation is defeat." ⚔️ — Isshin Ashina</i></p>
